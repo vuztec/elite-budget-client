@@ -48,8 +48,5 @@ pids
 *.pid.lock
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
-branch_structure.json
+.vscode
+
